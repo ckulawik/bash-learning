@@ -1,2 +1,2 @@
-# bash-learning
-This is where I practice various bash concepts.
+# shell-scripts-learning
+This is where I practice various zsh/bash concepts.
